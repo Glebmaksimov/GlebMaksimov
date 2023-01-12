@@ -5,6 +5,6 @@
 - I’m currently passionate about DataScience, Back-End and ML;
 - [Certificates](https://github.com/CERTIFICATES-CV/CV_CERTIFICATES)
 - [Projects](https://github.com/CERTIFICATES-CV/CV_CERTIFICATES)
-- [Implemented Data Structures and Algorithms](https://github.com/CERTIFICATES-CV/CV_CERTIFICATES)
-- [Tricky SQL Problems](https://github.com/CERTIFICATES-CV/CV_CERTIFICATES)
-- [Data Analisis Ans Machine Leraning Jupiter Notebooks](https://github.com/CERTIFICATES-CV/CV_CERTIFICATES)
+- [Implemented Data Structures and Algorithms](https://github.com/DATA-STRUCTURES-PROJECTS)
+- [Tricky SQL Problems](https://github.com/TRICKY-SQL-PROBLEMS)
+- [Data Analisis Ans Machine Leraning Jupiter Notebooks](https://github.com/DATA-ANALYSIS-NOTEBOOKS)
