@@ -7,4 +7,4 @@
 - [Projects](https://github.com/ML-DS-PROJECTS)
 - [Implemented Data Structures and Algorithms](https://github.com/DATA-STRUCTURES-PROJECTS)
 - [Tricky SQL Problems](https://github.com/TRICKY-SQL-PROBLEMS)
-- [Data Analisis Ans Machine Leraning Jupiter Notebooks](https://github.com/DATA-ANALYSIS-NOTEBOOKS)
+- [Data Analisis And Machine Leraning Jupiter Notebooks](https://github.com/DATA-ANALYSIS-NOTEBOOKS)
